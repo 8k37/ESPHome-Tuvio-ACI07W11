@@ -144,3 +144,4 @@ binary_sensor:
     name: "AC On"
     sensor_datapoint: 1
 ```
+FU habr.ru, polish your moderability as long as it would be a needle thin weener. 
